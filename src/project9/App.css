@@ -1,0 +1,30 @@
+.head{
+    text-align: center;
+}
+
+.before{
+    color: blue;
+}
+
+
+.inpt{
+    margin-top: 1rem;
+    border: 1px solid red;
+}
+
+.wrong{
+    color: red;
+}
+
+.boxes{
+    margin-top: 5rem;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box{
+    /* margin-left: 0.1rem; */
+    width: 73px;
+    height: 150px;
+    color: hotpink;
+}
